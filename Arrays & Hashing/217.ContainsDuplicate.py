@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         #Time complexity : O(n), Space complexity O(n)
