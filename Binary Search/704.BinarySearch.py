@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         """my first attempt solution. took me around 20 minutes to code"""
